@@ -1,2 +1,1 @@
-# phish
-Repository for Candidate Task
+# README
